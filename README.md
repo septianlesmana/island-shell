@@ -62,7 +62,7 @@ Previous values are backed up and *Restore Windows Look* puts everything back.
 ## Build & run
 ```
 git clone https://github.com/septianlesmana/island-shell.git
-cd DynamicIsland
+cd island-shell
 dotnet build
 dotnet run
 ```
